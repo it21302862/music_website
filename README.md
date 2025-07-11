@@ -74,6 +74,6 @@ To set up a development environment, please follow these steps:
     Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
-<img src="https://github.com/it21302862/music_website/blob/main/src/assets/artists.jpg" width="200" />
-<img src="https://github.com/it21302862/music_website/blob/main/src/assets/artist-list.png" width="200" />
-<img src="https://github.com/it21302862/music_website/blob/main/src/assets/music%20list.png" width="200" />
+<img src="https://github.com/it21302862/music_website/blob/main/src/assets/artists.jpg" width="500" />
+<img src="https://github.com/it21302862/music_website/blob/main/src/assets/artist-list.png" width="500" />
+<img src="https://github.com/it21302862/music_website/blob/main/src/assets/music%20list.png" width="500" />
